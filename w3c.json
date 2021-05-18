@@ -1,4 +1,5 @@
- {
-    "contacts":   ["ntelford"]
-,   "repo-type":  "cg-report"
+{
+  "group": 125898,
+  "contacts":   ["ntelford"],
+  "repo-type":  "cg-report"
 }
